@@ -1,3 +1,3 @@
 # osu!meme
 
-wew lad
+Some code to get currently playing song & progress from the game.
